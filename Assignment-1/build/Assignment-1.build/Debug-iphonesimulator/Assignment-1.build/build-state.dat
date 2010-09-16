@@ -1,26 +1,146 @@
 TAssignment-1
 v7
 r0
-t305166823.204192
+t306288633.492057
 cCheck dependencies
-cProcessInfoPlistFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Info.plist Assignment_1-Info.plist
-cPhaseScriptExecution "Copy PhoneGap Javascript" /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh
-cPhaseScriptExecution "Touch www folder" /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
+cProcessInfoPlistFile /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Info.plist Assignment_1-Info.plist
+cPhaseScriptExecution "Copy PhoneGap Javascript" /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh
+cPhaseScriptExecution "Touch www folder" /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
 cCpResource build/Debug-iphonesimulator/Assignment-1.app/www www
-cCpResource build/Debug-iphonesimulator/Assignment-1.app/VERSION /Users/cmcculloh/Documents/PhoneGapLib/VERSION
+cCpResource build/Debug-iphonesimulator/Assignment-1.app/VERSION /Users/Andy/Documents/PhoneGapLib/VERSION
 cCpResource build/Debug-iphonesimulator/Assignment-1.app/Default.png Default.png
 cCpResource build/Debug-iphonesimulator/Assignment-1.app/icon.png icon.png
-cCopyPlistFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/PhoneGap.plist PhoneGap.plist
-cProcessPCH /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-dbtkcjeyhbkdlqfgvjioaftfrxlf/Assignment_1_Prefix.pch.gch Assignment_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1 normal i386
-cGenerateDSYMFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1
-cTouch /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
+cCopyPlistFile /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/PhoneGap.plist PhoneGap.plist
+cProcessPCH /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-ahdrneehpuyqjpetzftxouadabkp/Assignment_1_Prefix.pch.gch Assignment_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1 normal i386
+cGenerateDSYMFile /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1
+cTouch /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004BD2005600000000000102F0
+t1272053846
+s66288
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004BD2005500000000000000EB
+t1272053845
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004BD1CFF4000000000003DB40
+t1272041460
+s252736
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AddressBook.framework/Headers/ABAddressBook.h
+c000000004BD1CFED0000000000000A8C
+t1272041453
+s2700
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004BD1D81600000000001567C0
+t1272043542
+s1402816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers/AddressBookUI.h
+c000000004BD1D7EF00000000000001D4
+t1272043503
+s468
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BD2001C0000000000193D80
+t1272053788
+s1654144
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004BD1FFCD000000000000E37C
+t1272053709
+s58236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004BD1CD580000000000125540
+t1272040792
+s1201472
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004BD1D4D20000000000061790
+t1272042706
+s399248
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004BD1D4C800000000000001AF
+t1272042696
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004BD2095E00000000001515F0
+t1272056158
+s1381872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004BD20075000000000005A8B0
+t1272053877
+s370864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004BD1D06900000000001294B0
+t1272041577
+s1217712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004BD1CD190000000000055570
+t1272040729
+s349552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UINavigationController.h
+c000000004BD204120000000000001971
+t1272054802
+s6513
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITabBar.h
+c000000004BD204130000000000000BF1
+t1272054803
+s3057
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIToolbar.h
+c000000004BD204120000000000000704
+t1272054802
+s1796
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
-c000000004C7DD7820000000000000132
-t1283315586
+c000000004C8095E50000000000000132
+t1283495397
 s306
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
@@ -137,6 +257,251 @@ N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0
 c000000004C0471620000000001D47210
 t1275359586
 s30700048
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/Contacts.h
+c000000004C881C8E0000000000000A53
+t1283988622
+s2643
+i<Foundation/Foundation.h>
+i<AddressBook/ABAddressBook.h>
+i<AddressBookUI/AddressBookUI.h>
+i"PhoneGapCommand.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/DebugConsole.h
+c000000004C881C8E0000000000000170
+t1283988622
+s368
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"PhoneGapCommand.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/JSON/JSON.h
+c000000004C881C8E00000000000008F9
+t1283988622
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/JSON/NSObject+SBJSON.h
+c000000004C881C8E0000000000000A01
+t1283988622
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/JSON/NSString+SBJSON.h
+c000000004C881C8E0000000000000916
+t1283988622
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/JSON/SBJSON.h
+c000000004C881C8E0000000000000AED
+t1283988622
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/JSON/SBJsonBase.h
+c000000004C881C8E0000000000000B82
+t1283988622
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/JSON/SBJsonParser.h
+c000000004C881C8E0000000000000C0B
+t1283988622
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/JSON/SBJsonWriter.h
+c000000004C881C8E0000000000001140
+t1283988622
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/Location.h
+c000000004C881C8E0000000000000530
+t1283988622
+s1328
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i"PhoneGapCommand.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/PhoneGapCommand.h
+c000000004C881C8E00000000000002ED
+t1283988622
+s749
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/PhoneGapDelegate.h
+c000000004C881C8E00000000000006D8
+t1283988622
+s1752
+i<UIKit/UIKit.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UINavigationController.h>
+i"JSON/JSON.h"
+i"Location.h"
+i"Sound.h"
+i"Contacts.h"
+i"DebugConsole.h"
+i"UIControls.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/PhoneGapViewController.h
+c000000004C881C8E0000000000000293
+t1283988622
+s659
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/Sound.h
+c000000004C881C8E0000000000000686
+t1283988622
+s1670
+i<Foundation/Foundation.h>
+i<AudioToolbox/AudioServices.h>
+i<AVFoundation/AVFoundation.h>
+i"PhoneGapCommand.h"
+
+N/Users/Andy/Documents/PhoneGapLib/Classes/UIControls.h
+c000000004C881C8E000000000000066A
+t1283988622
+s1642
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<UIKit/UITabBar.h>
+i<UIKit/UIToolbar.h>
+i"PhoneGapCommand.h"
+
+N/Users/Andy/Documents/PhoneGapLib/VERSION
+c000000004C881C8E0000000000000005
+t1283988622
+s5
+
+N/Users/Andy/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a
+c000000004C91607700000000000EA450
+t1284595831
+s959568
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1_Prefix.pch
+c000000004C881E1500000000000000C1
+t1283989013
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.h
+c000000004C881E15000000000000011E
+t1283989013
+s286
+i<UIKit/UIKit.h>
+i"PhoneGapDelegate.h"
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m
+c000000004C881E150000000000000811
+t1283989013
+s2065
+i"Assignment_1AppDelegate.h"
+i"PhoneGapViewController.h"
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Default.png
+c000000004C881E150000000000000BAE
+t1283989013
+s2990
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/PhoneGap.plist
+c000000004C881E15000000000000027E
+t1283989013
+s638
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment-1.LinkFileList
+c000000004C8820480000000000000143
+t1283989576
+s323
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o
+t1284595832
+s44072
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o
+t1284595832
+s6532
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
+c000000004C881E150000000000000027
+t1283989013
+s39
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh
+c000000004C881E1500000000000000BE
+t1283989013
+s190
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
+t1284595833
+s340
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM
+t1284595833
+s102
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1
+t1284595833
+s309012
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Default.png
+t1283989013
+s2990
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Info.plist
+t1283989013
+s945
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/PhoneGap.plist
+t1283989013
+s255
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/PkgInfo
+t1283989013
+s8
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/VERSION
+t1284595831
+s5
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/icon.png
+t1283989013
+s3126
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/www
+t1283990026
+s136
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/libPhoneGapLib.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/icon.png
+c000000004C881E150000000000000C36
+t1283989013
+s3126
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/main.m
+c000000004C881E150000000000000190
+t1283989013
+s400
+i<UIKit/UIKit.h>
+
+N/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/www
+c000000004C9160770000000000000088
+t1284595831
+s136
 
 N/Users/cmcculloh/Documents/PhoneGapLib/Classes/Contacts.h
 c000000004C803CD10000000000000A53
@@ -383,18 +748,48 @@ c000000004C8042650000000000000088
 t1283474021
 s136
 
+N/VERSION
+c00000000000000000000000000000000
+t2
+s0
+
 N/var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-dbtkcjeyhbkdlqfgvjioaftfrxlf/Assignment_1_Prefix.pch.gch
 t1283474022
 s15232016
 
+N/var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-ahdrneehpuyqjpetzftxouadabkp/Assignment_1_Prefix.pch.gch
+t1284595832
+s13825936
+
+N/var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-cyltquqbtqvevraapyeivxhqehoh/Assignment_1_Prefix.pch.gch
+t1283989580
+s15232016
+
+N/var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-hdtmeqhckqafxvdgqsurzhodbigk/Assignment_1_Prefix.pch.gch
+t1283990029
+s13825936
+
 NAssignment_1-Info.plist
-c000000004C80411500000000000005C2
-t1283473685
+c000000004C881E1500000000000005C2
+t1283989013
 s1474
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies305166820#305166820#0(0"0(0#1#0"8611704288#0"0#
+lSLF07#2@18"Check dependencies306288631#306288631#0(0"0(0#1#0"8602440000#0"0#
+
+CCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306288632.402579
+e306288632.516985
+r1
+xCompileC
+xbuild/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o
+x/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m306288632#306288632#0(0"0(0#0#92"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m8602937184#2370"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator -iquote/Users/Andy/Documents/PhoneGapLib/Classes/JSON -iquote/Users/Andy/Documents/PhoneGapLib/Classes -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -include /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-ahdrneehpuyqjpetzftxouadabkp/Assignment_1_Prefix.pch -c /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m -o /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o0#
 
 CCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s305166822.087050
@@ -409,6 +804,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@93"Compile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m305166822#305166822#0(0"0(0#0#85"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m8608040576#2303"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator -iquote/Users/cmcculloh/Documents/PhoneGapLib/Classes/JSON -iquote/Users/cmcculloh/Documents/PhoneGapLib/Classes -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -include /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-dbtkcjeyhbkdlqfgvjioaftfrxlf/Assignment_1_Prefix.pch -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Classes/Assignment_1AppDelegate.m -o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment_1AppDelegate.o0#
 
+CCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s306288632.401161
+e306288632.491488
+r1
+xCompileC
+xbuild/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o
+x/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/main.m306288632#306288632#0(0"0(0#0#65"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/main.m8601885984#2324"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator -iquote/Users/Andy/Documents/PhoneGapLib/Classes/JSON -iquote/Users/Andy/Documents/PhoneGapLib/Classes -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -include /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-ahdrneehpuyqjpetzftxouadabkp/Assignment_1_Prefix.pch -c /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/main.m -o /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o0#
+
 CCompileC build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s305166822.085907
 e305166822.147881
@@ -421,6 +829,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/main.m305166822#305166822#0(0"0(0#0#58"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/main.m8610997408#2257"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator -iquote/Users/cmcculloh/Documents/PhoneGapLib/Classes/JSON -iquote/Users/cmcculloh/Documents/PhoneGapLib/Classes -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -include /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-dbtkcjeyhbkdlqfgvjioaftfrxlf/Assignment_1_Prefix.pch -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/main.m -o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/main.o0#
+
+CCopyPlistFile /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/PhoneGap.plist PhoneGap.plist
+r0
 
 CCopyPlistFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/PhoneGap.plist PhoneGap.plist
 s305166821.050684
@@ -440,6 +851,15 @@ xbuild/Debug-iphonesimulator/Assignment-1.app/Default.png
 xDefault.png
 lSLF07#2@16"Copy Default.png305166821#305166821#0(0"0(0#0#63"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Default.png8608396640#499"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Default.png /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
 
+CCpResource build/Debug-iphonesimulator/Assignment-1.app/VERSION /Users/Andy/Documents/PhoneGapLib/VERSION
+s306288631.469065
+e306288631.507704
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Assignment-1.app/VERSION
+x/Users/Andy/Documents/PhoneGapLib/VERSION
+lSLF07#2@46"Copy /Users/Andy/Documents/PhoneGapLib/VERSION306288631#306288631#0(0"0(0#0#41"/Users/Andy/Documents/PhoneGapLib/VERSION8603160896#491"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Andy/Documents/PhoneGapLib/VERSION /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
+
 CCpResource build/Debug-iphonesimulator/Assignment-1.app/VERSION /Users/cmcculloh/Documents/PhoneGapLib/VERSION
 s305166821.048090
 e305166821.146632
@@ -448,6 +868,16 @@ xCpResource
 xbuild/Debug-iphonesimulator/Assignment-1.app/VERSION
 x/Users/cmcculloh/Documents/PhoneGapLib/VERSION
 lSLF07#2@51"Copy /Users/cmcculloh/Documents/PhoneGapLib/VERSION305166821#305166821#0(0"0(0#0#46"/Users/cmcculloh/Documents/PhoneGapLib/VERSION8608804064#482"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/cmcculloh/Documents/PhoneGapLib/VERSION /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
+
+CCpResource build/Debug-iphonesimulator/Assignment-1.app/VERSION /VERSION
+s305682826.175457
+e305682826.186859
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/Assignment-1.app/VERSION
+x/VERSION
+oNo such file or directory
+lSLF07#2@13"Copy /VERSION305682826#305682826#0(134"No such file or directoryCommand /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 11(4@107"Command /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp failed with exit code 1305682826#18446744073709551615#0#0(1@0"0(0#0#8"/VERSION8611330080#458"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /VERSION /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app1#
 
 CCpResource build/Debug-iphonesimulator/Assignment-1.app/icon.png icon.png
 s305166821.049649
@@ -459,13 +889,22 @@ xicon.png
 lSLF07#2@13"Copy icon.png305166821#305166821#0(0"0(0#0#60"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/icon.png8608125056#496"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/cmcculloh/Projects/Assignment-1/Assignment-1/icon.png /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
 
 CCpResource build/Debug-iphonesimulator/Assignment-1.app/www www
-s305166821.047270
-e305166821.147228
+s305682826.174697
+e305682826.185851
 r1
 xCpResource
 xbuild/Debug-iphonesimulator/Assignment-1.app/www
 xwww
-lSLF07#2@8"Copy www305166821#305166821#0(0"0(0#0#55"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/www8611281216#491"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/cmcculloh/Projects/Assignment-1/Assignment-1/www /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
+lSLF07#2@8"Copy www305682826#305682826#0(0"0(0#0#62"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/www8609967808#512"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/www /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
+
+CGenerateDSYMFile /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1
+s306288633.336336
+e306288633.489239
+r1
+xGenerateDSYMFile
+x/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM
+x/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/Assignment-1.app.dSYM build/Debug-iphonesimulator/Assignment-1.app/Assignment-1306288633#306288633#0(0"0(0#0#116"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-18601899968#458"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1 -o /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM0#
 
 CGenerateDSYMFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1
 s305166823.045725
@@ -476,6 +915,16 @@ x/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator
 x/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1
 lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/Assignment-1.app.dSYM build/Debug-iphonesimulator/Assignment-1.app/Assignment-1305166823#305166823#0(0"0(0#0#109"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-18606547328#437"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1 -o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app.dSYM0#
 
+CLd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1 normal i386
+s306288632.517078
+e306288633.336223
+r1
+xLd
+x/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1
+xnormal
+xi386
+lSLF07#2@121"Link /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1306288632#306288633#0(0"0(0#0#0"8602144032#1368"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator -F/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator -filelist /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment-1.LinkFileList -mmacosx-version-min=10.5 -all_load -Obj-C -Xlinker -objc_abi_version -Xlinker 2 /Users/Andy/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -o /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-10#
+
 CLd /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1 normal i386
 s305166822.206419
 e305166823.045520
@@ -485,6 +934,17 @@ x/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator
 xnormal
 xi386
 lSLF07#2@114"Link /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-1305166822#305166823#0(0"0(0#0#0"8608684672#1338"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator -F/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator -filelist /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment-1.LinkFileList -mmacosx-version-min=10.6 -all_load -Obj-C -Xlinker -objc_abi_version -Xlinker 2 /Users/cmcculloh/Documents/PhoneGapLib/build/Debug-iphonesimulator/libPhoneGapLib.a -framework Foundation -framework UIKit -framework CoreGraphics -framework AddressBook -framework AddressBookUI -framework AudioToolbox -framework AVFoundation -framework CFNetwork -framework CoreLocation -framework MediaPlayer -framework QuartzCore -framework SystemConfiguration -framework MobileCoreServices -o /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Assignment-10#
+
+CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh
+s306288631.413913
+e306288631.451289
+r1
+xPhaseScriptExecution
+xCopy PhoneGap Javascript
+x/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh
+omake: Nothing to be done for `all'.
+ocp /Users/Andy/Documents/PhoneGapLib/javascripts/phonegap.js /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/www/phonegap.js
+lSLF07#2@50"Run custom shell script 'Copy PhoneGap Javascript'306288631#306288631#0(172"make: Nothing to be done for `all'.cp /Users/Andy/Documents/PhoneGapLib/javascripts/phonegap.js /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/www/phonegap.js2(13@36"make: Nothing to be done for `all'.306288631#0#36#0(1@0"0(13@136"cp /Users/Andy/Documents/PhoneGapLib/javascripts/phonegap.js /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/www/phonegap.js306288631#36#136#0(1@0"0(0#0#0"32651569751457900#18385"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Andy    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv BUILD_ROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH Assignment-1.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Assignment-1.dst    setenv DWARF_DSYM_FILE_NAME Assignment-1.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH Assignment-1.app/Executables    setenv EXECUTABLE_FOLDER_PATH Assignment-1.app    setenv EXECUTABLE_NAME Assignment-1    setenv EXECUTABLE_PATH Assignment-1.app/Assignment-1    setenv FILE_LIST /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH Assignment-1.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME Assignment-1.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Assignment_1_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Assignment_1-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH Assignment-1.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/Assignment-1.dst/Users/Andy/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Andy    setenv INSTALL_PATH /Users/Andy/Applications    setenv INSTALL_ROOT /tmp/Assignment-1.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH Assignment-1.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment-1.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal    setenv OBJROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH Assignment-1.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/Andy/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/PkgInfo    setenv PKGINFO_PATH Assignment-1.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH Assignment-1.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH Assignment-1.app/PrivateHeaders    setenv PRODUCT_NAME Assignment-1    setenv PRODUCT_SETTINGS_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Assignment-1    setenv PROJECT_DERIVED_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/DerivedSources    setenv PROJECT_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv PROJECT_FILE_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment-1.xcodeproj    setenv PROJECT_NAME Assignment-1    setenv PROJECT_TEMP_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build    setenv PUBLIC_HEADERS_FOLDER_PATH Assignment-1.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH Assignment-1.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk    setenv SDK_NAME iphonesimulator3.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH Assignment-1.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH Assignment-1.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv SRCROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/SymbolRepositories    setenv SYMROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Assignment-1    setenv TARGET_BUILD_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv TARGET_NAME Assignment-1    setenv TARGET_TEMP_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_FILES_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_ROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH Assignment-1.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER Andy    setenv USER_APPS_DIR /Users/Andy/Applications    setenv USER_HEADER_SEARCH_PATHS "/Users/Andy/Documents/PhoneGapLib/Classes/JSON /Users/Andy/Documents/PhoneGapLib/Classes"    setenv USER_LIBRARY_DIR /Users/Andy/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH Assignment-1.app/version.plist    setenv VERSION_INFO_BUILDER Andy    setenv VERSION_INFO_FILE Assignment-1_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Assignment-1  PROJECT:Assignment-1-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME Assignment-1.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh0#
 
 CPhaseScriptExecution "Copy PhoneGap Javascript" /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh
 s305166820.959432
@@ -497,6 +957,15 @@ omake: Nothing to be done for `all'.
 ocp /Users/cmcculloh/Documents/PhoneGapLib/javascripts/phonegap.js /Users/cmcculloh/Projects/Assignment-1/Assignment-1/www/phonegap.js
 lSLF07#2@50"Run custom shell script 'Copy PhoneGap Javascript'305166820#305166821#0(170"make: Nothing to be done for `all'.cp /Users/cmcculloh/Documents/PhoneGapLib/javascripts/phonegap.js /Users/cmcculloh/Projects/Assignment-1/Assignment-1/www/phonegap.js2(13@36"make: Nothing to be done for `all'.305166820#0#36#0(1@0"0(13@134"cp /Users/cmcculloh/Documents/PhoneGapLib/javascripts/phonegap.js /Users/cmcculloh/Projects/Assignment-1/Assignment-1/www/phonegap.js305166820#36#134#0(1@0"0(0#0#0"8607855392#18128"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER cmcculloh    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv BUILD_ROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH Assignment-1.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Assignment-1.dst    setenv DWARF_DSYM_FILE_NAME Assignment-1.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH Assignment-1.app/Executables    setenv EXECUTABLE_FOLDER_PATH Assignment-1.app    setenv EXECUTABLE_NAME Assignment-1    setenv EXECUTABLE_PATH Assignment-1.app/Assignment-1    setenv FILE_LIST /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH Assignment-1.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME Assignment-1.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Assignment_1_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Assignment_1-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH Assignment-1.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/Assignment-1.dst/Users/cmcculloh/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER cmcculloh    setenv INSTALL_PATH /Users/cmcculloh/Applications    setenv INSTALL_ROOT /tmp/Assignment-1.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH Assignment-1.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment-1.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1063    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0603    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal    setenv OBJROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH Assignment-1.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/cmcculloh/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/PkgInfo    setenv PKGINFO_PATH Assignment-1.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH Assignment-1.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH Assignment-1.app/PrivateHeaders    setenv PRODUCT_NAME Assignment-1    setenv PRODUCT_SETTINGS_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Assignment-1    setenv PROJECT_DERIVED_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/DerivedSources    setenv PROJECT_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PROJECT_FILE_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment-1.xcodeproj    setenv PROJECT_NAME Assignment-1    setenv PROJECT_TEMP_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build    setenv PUBLIC_HEADERS_FOLDER_PATH Assignment-1.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH Assignment-1.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_NAME iphonesimulator4.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH Assignment-1.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH Assignment-1.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv SRCROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/SymbolRepositories    setenv SYMROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Assignment-1    setenv TARGET_BUILD_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv TARGET_NAME Assignment-1    setenv TARGET_TEMP_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_FILES_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_ROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH Assignment-1.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER cmcculloh    setenv USER_APPS_DIR /Users/cmcculloh/Applications    setenv USER_HEADER_SEARCH_PATHS "/Users/cmcculloh/Documents/PhoneGapLib/Classes/JSON /Users/cmcculloh/Documents/PhoneGapLib/Classes"    setenv USER_LIBRARY_DIR /Users/cmcculloh/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH Assignment-1.app/version.plist    setenv VERSION_INFO_BUILDER cmcculloh    setenv VERSION_INFO_FILE Assignment-1_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Assignment-1  PROJECT:Assignment-1-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME Assignment-1.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-30E9A9A110B758320022D3BA.sh0#
 
+CPhaseScriptExecution "Touch www folder" /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
+s306288631.451378
+e306288631.468623
+r1
+xPhaseScriptExecution
+xTouch www folder
+x/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
+lSLF07#2@42"Run custom shell script 'Touch www folder'306288631#306288631#0(0"0(0#0#0"8602892096#18385"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Andy    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv BUILD_ROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH Assignment-1.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Assignment-1.dst    setenv DWARF_DSYM_FILE_NAME Assignment-1.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH Assignment-1.app/Executables    setenv EXECUTABLE_FOLDER_PATH Assignment-1.app    setenv EXECUTABLE_NAME Assignment-1    setenv EXECUTABLE_PATH Assignment-1.app/Assignment-1    setenv FILE_LIST /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH Assignment-1.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME Assignment-1.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Assignment_1_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Assignment_1-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH Assignment-1.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/Assignment-1.dst/Users/Andy/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Andy    setenv INSTALL_PATH /Users/Andy/Applications    setenv INSTALL_ROOT /tmp/Assignment-1.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH Assignment-1.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment-1.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv MAC_OS_X_VERSION_ACTUAL 1064    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0604    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal    setenv OBJROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH Assignment-1.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/Andy/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/PkgInfo    setenv PKGINFO_PATH Assignment-1.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH Assignment-1.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH Assignment-1.app/PrivateHeaders    setenv PRODUCT_NAME Assignment-1    setenv PRODUCT_SETTINGS_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Assignment-1    setenv PROJECT_DERIVED_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/DerivedSources    setenv PROJECT_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv PROJECT_FILE_PATH /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment-1.xcodeproj    setenv PROJECT_NAME Assignment-1    setenv PROJECT_TEMP_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build    setenv PUBLIC_HEADERS_FOLDER_PATH Assignment-1.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH Assignment-1.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk    setenv SDK_NAME iphonesimulator3.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH Assignment-1.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH Assignment-1.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv SRCROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/SymbolRepositories    setenv SYMROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Assignment-1    setenv TARGET_BUILD_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv TARGET_NAME Assignment-1    setenv TARGET_TEMP_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_FILES_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_FILE_DIR /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_ROOT /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH Assignment-1.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER Andy    setenv USER_APPS_DIR /Users/Andy/Applications    setenv USER_HEADER_SEARCH_PATHS "/Users/Andy/Documents/PhoneGapLib/Classes/JSON /Users/Andy/Documents/PhoneGapLib/Classes"    setenv USER_LIBRARY_DIR /Users/Andy/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH Assignment-1.app/version.plist    setenv VERSION_INFO_BUILDER Andy    setenv VERSION_INFO_FILE Assignment-1_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Assignment-1  PROJECT:Assignment-1-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME Assignment-1.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh0#
+
 CPhaseScriptExecution "Touch www folder" /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
 s305166821.005555
 e305166821.046707
@@ -505,6 +974,9 @@ xPhaseScriptExecution
 xTouch www folder
 x/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh
 lSLF07#2@42"Run custom shell script 'Touch www folder'305166821#305166821#0(0"0(0#0#0"8607970528#18128"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER cmcculloh    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv BUILD_ROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH Assignment-1.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH /Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/Assignment-1.dst    setenv DWARF_DSYM_FILE_NAME Assignment-1.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH Assignment-1.app/Executables    setenv EXECUTABLE_FOLDER_PATH Assignment-1.app    setenv EXECUTABLE_NAME Assignment-1    setenv EXECUTABLE_PATH Assignment-1.app/Assignment-1    setenv FILE_LIST /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH Assignment-1.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME Assignment-1.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER Assignment_1_Prefix.pch    setenv GCC_PRODUCT_TYPE_PREPROCESSOR_DEFINITIONS " __IPHONE_OS_VERSION_MIN_REQUIRED=30200"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Assignment_1-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH Assignment-1.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH /InfoPlist.strings    setenv INSTALL_DIR /tmp/Assignment-1.dst/Users/cmcculloh/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER cmcculloh    setenv INSTALL_PATH /Users/cmcculloh/Applications    setenv INSTALL_ROOT /tmp/Assignment-1.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH Assignment-1.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal/i386/Assignment-1.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1063    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0603    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Objects-normal    setenv OBJROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-all_load -Obj-C"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH Assignment-1.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/cmcculloh/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/PkgInfo    setenv PKGINFO_PATH Assignment-1.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH Assignment-1.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH Assignment-1.app/PrivateHeaders    setenv PRODUCT_NAME Assignment-1    setenv PRODUCT_SETTINGS_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT Assignment-1    setenv PROJECT_DERIVED_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/DerivedSources    setenv PROJECT_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv PROJECT_FILE_PATH /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment-1.xcodeproj    setenv PROJECT_NAME Assignment-1    setenv PROJECT_TEMP_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build    setenv PUBLIC_HEADERS_FOLDER_PATH Assignment-1.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH Assignment-1.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk    setenv SDK_NAME iphonesimulator4.0    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH Assignment-1.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH Assignment-1.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv SRCROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES 1    setenv SYMBOL_REPOSITORY_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/SymbolRepositories    setenv SYMROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME Assignment-1    setenv TARGET_BUILD_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator    setenv TARGET_NAME Assignment-1    setenv TARGET_TEMP_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_FILES_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_FILE_DIR /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build    setenv TEMP_ROOT /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH Assignment-1.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER cmcculloh    setenv USER_APPS_DIR /Users/cmcculloh/Applications    setenv USER_HEADER_SEARCH_PATHS "/Users/cmcculloh/Documents/PhoneGapLib/Classes/JSON /Users/cmcculloh/Documents/PhoneGapLib/Classes"    setenv USER_LIBRARY_DIR /Users/cmcculloh/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH Assignment-1.app/version.plist    setenv VERSION_INFO_BUILDER cmcculloh    setenv VERSION_INFO_FILE Assignment-1_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:Assignment-1  PROJECT:Assignment-1-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME Assignment-1.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_VERSION_ACTUAL 0323    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    /bin/sh -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Script-304B58A110DAC018002A0835.sh0#
+
+CProcessInfoPlistFile /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Info.plist Assignment_1-Info.plist
+r0
 
 CProcessInfoPlistFile /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app/Info.plist Assignment_1-Info.plist
 s305166820.948426
@@ -527,6 +999,53 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile Assignment_1_Prefix.pch305166821#305166822#0(0"0(0#0#75"/Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1_Prefix.pch8606639264#2131"    cd /Users/cmcculloh/Projects/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator -iquote/Users/cmcculloh/Documents/PhoneGapLib/Classes/JSON -iquote/Users/cmcculloh/Documents/PhoneGapLib/Classes -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -c /Users/cmcculloh/Projects/Assignment-1/Assignment-1/Assignment_1_Prefix.pch -o /var/folders/JO/JOAMr13RExy3+dirduMrTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-dbtkcjeyhbkdlqfgvjioaftfrxlf/Assignment_1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-ahdrneehpuyqjpetzftxouadabkp/Assignment_1_Prefix.pch.gch Assignment_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s306288631.507823
+e306288632.400970
+r1
+xProcessPCH
+x/var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-ahdrneehpuyqjpetzftxouadabkp/Assignment_1_Prefix.pch.gch
+xAssignment_1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Assignment_1_Prefix.pch306288631#306288632#0(0"0(0#0#82"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1_Prefix.pch8605376448#2191"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator -iquote/Users/Andy/Documents/PhoneGapLib/Classes/JSON -iquote/Users/Andy/Documents/PhoneGapLib/Classes -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -c /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1_Prefix.pch -o /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-ahdrneehpuyqjpetzftxouadabkp/Assignment_1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-cyltquqbtqvevraapyeivxhqehoh/Assignment_1_Prefix.pch.gch Assignment_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305682376.758833
+e305682380.646525
+r1
+xProcessPCH
+x/var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-cyltquqbtqvevraapyeivxhqehoh/Assignment_1_Prefix.pch.gch
+xAssignment_1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Assignment_1_Prefix.pch305682376#305682380#0(0"0(0#0#82"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1_Prefix.pch8609919680#2125"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator -iquote/Classes/JSON -iquote/Classes -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -c /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1_Prefix.pch -o /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-cyltquqbtqvevraapyeivxhqehoh/Assignment_1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-hdtmeqhckqafxvdgqsurzhodbigk/Assignment_1_Prefix.pch.gch Assignment_1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305682826.186954
+e305682829.716405
+r1
+xProcessPCH
+x/var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-hdtmeqhckqafxvdgqsurzhodbigk/Assignment_1_Prefix.pch.gch
+xAssignment_1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Assignment_1_Prefix.pch305682826#305682829#0(0"0(0#0#82"/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1_Prefix.pch8612649216#2125"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-generated-files.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-own-target-headers.hmap -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-all-target-headers.hmap -iquote /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/Assignment-1-project-headers.hmap -F/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator -iquote/Classes/JSON -iquote/Classes -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/include -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources/i386 -I/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Assignment-1.build/Debug-iphonesimulator/Assignment-1.build/DerivedSources -c /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/Assignment_1_Prefix.pch -o /var/folders/Z6/Z6rRJGciFhyM+-KsoxQK5U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Assignment_1_Prefix-hdtmeqhckqafxvdgqsurzhodbigk/Assignment_1_Prefix.pch.gch0#
+
+CTouch /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
+s306288633.489329
+e306288633.492015
+r1
+xTouch
+x/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
+lSLF07#2@109"Touch /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app306288633#306288633#0(0"0(0#0#0"8604934272#323"    cd /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app0#
 
 CTouch /Users/cmcculloh/Projects/Assignment-1/Assignment-1/build/Debug-iphonesimulator/Assignment-1.app
 s305166823.200699

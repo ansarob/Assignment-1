@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Assignment-1 */ = {
+		activeExec = 0;
+		executables = (
+			A1CC119E123857840015A44D /* Assignment-1 */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A1CC119E123857840015A44D /* Assignment-1 */;
+		activeSDKPreference = iphonesimulator3.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Assignment-1 */;
+		codeSenseManager = A1CC11C51238578C0015A44D /* Code sense */;
+		executables = (
+			A1CC119E123857840015A44D /* Assignment-1 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 306288562;
+			PBXWorkspaceStateSaveDate = 306288562;
+		};
+		perUserProjectItems = {
+			A1ADED21124197B8005452AE /* PBXTextBookmark */ = A1ADED21124197B8005452AE /* PBXTextBookmark */;
+			A1CC11D2123859770015A44D = A1CC11D2123859770015A44D /* PBXTextBookmark */;
+			A1CC11DE124196FB0015A44D = A1CC11DE124196FB0015A44D /* PBXTextBookmark */;
+		};
+		sourceControlManager = A1CC11C41238578C0015A44D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	A1ADED21124197B8005452AE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A1CC11D3123859770015A44D /* index.html */;
+		name = "index.html: 42";
+		rLen = 0;
+		rLoc = 1297;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 964;
+	};
+	A1CC119E123857840015A44D /* Assignment-1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Assignment-1";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A1CC11C41238578C0015A44D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A1CC11C51238578C0015A44D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A1CC11D2123859770015A44D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A1CC11D3123859770015A44D /* index.html */;
+		name = "index.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	A1CC11D3123859770015A44D /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = "/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/www/index.html";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 585}}";
+			sepNavSelRange = "{1297, 0}";
+			sepNavVisRange = "{964, 357}";
+		};
+	};
+	A1CC11DE124196FB0015A44D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A1CC11DF124196FB0015A44D /* index.html */;
+		name = "index.html: 42";
+		rLen = 0;
+		rLoc = 1297;
+		rType = 0;
+		vrLen = 353;
+		vrLoc = 968;
+	};
+	A1CC11DF124196FB0015A44D /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = "/Users/Andy/School/fall2010/n300/Assignment-1/Assignment-1/www/index.html";
+		sourceTree = "<absolute>";
+	};
+}
